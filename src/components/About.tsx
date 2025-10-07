@@ -149,7 +149,7 @@ const About = () => {
             {/* Imagem Principal do Escritório */}
             <div className="relative overflow-hidden rounded-lg">
               <img 
-                src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1563286094-6e420626b6f3?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Nosso escritório moderno"
                 className="w-full h-64 sm:h-80 object-cover"
               />
@@ -163,7 +163,7 @@ const About = () => {
             {/* Imagem da Equipe */}
             <div className="relative overflow-hidden rounded-lg">
               <img 
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1637164153353-ef260e2e7e7e?q=80&w=1318&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Nossa equipe de especialistas"
                 className="w-full h-48 sm:h-64 object-cover"
               />

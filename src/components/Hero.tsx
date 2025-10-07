@@ -36,9 +36,9 @@ const Hero = () => {
     <section
       id="home"
       ref={heroRef}
-      className="min-h-screen flex items-end pt-32 pb-8 section-overlay relative"
+      className="min-h-screen flex items-end pt-40 pb-80 section-overlay relative"
       style={{
-        backgroundImage: 'url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)',
+        backgroundImage: 'url("https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed'
